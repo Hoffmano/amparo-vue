@@ -1,6 +1,6 @@
-# Frontend Amparo
+# 🏥 Frontend Amparo
 
-## Start server
+## 🖥️ Start server
 ```
 docker-compose up
 ```
