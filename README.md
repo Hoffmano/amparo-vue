@@ -1,19 +1,8 @@
-# amparo-vue
+# Frontend Amparo
 
-## Project setup
+## Start server
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+docker-compose up
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Access `localhost:8080` to see the site.
